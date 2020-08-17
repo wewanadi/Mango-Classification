@@ -63,5 +63,5 @@ class save_best_model(Callback):
             print ('Not better acc than {:.4f}'.format(best_acc))
 ```
 ## Demo
-[Image to numpy](https://github.com/wewanadi/Mango-Classification/blob/master/Image2Numpy.ipynb)
-[Train](https://github.com/wewanadi/Mango-Classification/blob/master/Train.ipynb)
+* [Image to numpy](https://github.com/wewanadi/Mango-Classification/blob/master/Image2Numpy.ipynb)
+* [Train](https://github.com/wewanadi/Mango-Classification/blob/master/Train.ipynb)
