@@ -10,9 +10,9 @@
 ## Fine tune Model
 
 
-| Model | Accuracy on test data | Loss on test data|
+| Model | Accuracy on test data | Loss on test data |
 | [EfficientNet-B0](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB0.h5) | 81.375% | 0.4152 | 
-| [EfficientNet-B1](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB1.h5) | 82.875% | 0.4052  | 
+| [EfficientNet-B1](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB1.h5) | 82.875% | 0.4052 | 
 | [EfficientNet-B2] | 83.25% | 0.4002 | 
 | [EfficientNet-B3] | 85.25% | 0.3800 | 
 | [EfficientNet-B4] | 84.5% | 0.3927 | 
