@@ -2,6 +2,9 @@
 ###### tags:`Image Classification` `EfficientNet` `Tensorflow` `Keras`
 
 ## Outcomes
+
+* Accuracy : 82.3125%
+
 <img src=https://github.com/wewanadi/Mango-Classification/blob/master/.Image/scoreboard.png width="700">
 
 ## EfficientNet
