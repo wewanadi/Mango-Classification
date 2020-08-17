@@ -3,6 +3,7 @@
 
 ## Outcomes
 <img src=https://github.com/wewanadi/Mango-Classification/blob/master/.Image/scoreboard.png width="700">
+
 ## EfficientNet
 
 ## Data Pre-processing
