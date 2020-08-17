@@ -13,10 +13,10 @@
 | :-----: | :----: | :----: |
 | [EfficientNet-B0](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB0.h5) | 81.375% | 0.4152 | 
 | [EfficientNet-B1](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB1.h5) | 82.875% | 0.4052 | 
-| [EfficientNet-B2] | 83.25% | 0.4002 | 
-| [EfficientNet-B3] | 85.25% | 0.3800 | 
-| [EfficientNet-B4] | 84.5% | 0.3927 | 
-| [EfficientNet-B5] | 82.625% | 0.4189 | 
+| EfficientNet-B2 | 83.25% | 0.4002 | 
+| EfficientNet-B3 | 85.25% | 0.3800 | 
+| EfficientNet-B4 | 84.5% | 0.3927 | 
+| EfficientNet-B5 | 82.625% | 0.4189 | 
 
 * Poor performance on bigger model because of batch-size getting smaller.(Train on 1 RTX-1080ti)
 * B2, B3, B4, B5 is too large to upload on Github.
