@@ -9,12 +9,8 @@
 
 ## Fine tune Model
 
-
-| degree : 1 | degree : 5 | degree : 10 | degree : 14 | 
-| :-----: | :----: | :----: | :----: |
-
-
 | Model | Accuracy on test data | Loss on test data |
+| :-----: | :----: | :----: |
 | [EfficientNet-B0](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB0.h5) | 81.375% | 0.4152 | 
 | [EfficientNet-B1](https://github.com/wewanadi/Mango-Classification/blob/master/Trained_Model/Mango_EfficientNetB1.h5) | 82.875% | 0.4052 | 
 | [EfficientNet-B2] | 83.25% | 0.4002 | 
