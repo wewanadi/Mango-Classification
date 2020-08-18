@@ -26,8 +26,8 @@
 ## Data Pre-processing
 ### Data input
 * Image stored in numpy.
-  * image = (6400, ?, ?, 3) 
-  * target = (6400, 1)
+  * image = ```shape(6400, ?, ?, 3)```
+  * target = ```shape(6400, 1)```
 
 ### Resize Image
 * Make sure all Image are in the same shape.
